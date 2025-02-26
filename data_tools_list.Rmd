@@ -1,0 +1,15 @@
+"# List of Data Analysis Tools" 
+# List of Data Analysis Tools
+
+This file contains a list of commonly used data analysis tools:
+
+1. **R** - A statistical computing and graphics programming language.
+2. **Python** - A general-purpose programming language with libraries like Pandas and NumPy.
+3. **SQL** - Used for managing and querying relational databases.
+4. **Tableau** - A powerful data visualization tool.
+5. **Excel** - A widely used spreadsheet tool with data analysis capabilities.
+6. **Power BI** - A business analytics tool for interactive data visualizations.
+7. **SPSS** - A software for statistical analysis in social sciences.
+8. **Stata** - Used for statistical analysis in various fields.
+9. **MATLAB** - A high-performance language for technical computing.
+
